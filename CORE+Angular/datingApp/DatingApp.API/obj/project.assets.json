@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/avkashsharma/Desktop/CORE+Angular/datingApp/DatingApp.API/DatingApp.API.csproj",
+      "projectUniqueName": "/Users/avkashsharma/Documents/dotNetCore/CORE+Angular/datingApp/DatingApp.API/DatingApp.API.csproj",
       "projectName": "DatingApp.API",
-      "projectPath": "/Users/avkashsharma/Desktop/CORE+Angular/datingApp/DatingApp.API/DatingApp.API.csproj",
+      "projectPath": "/Users/avkashsharma/Documents/dotNetCore/CORE+Angular/datingApp/DatingApp.API/DatingApp.API.csproj",
       "packagesPath": "/Users/avkashsharma/.nuget/packages/",
-      "outputPath": "/Users/avkashsharma/Desktop/CORE+Angular/datingApp/DatingApp.API/obj/",
+      "outputPath": "/Users/avkashsharma/Documents/dotNetCore/CORE+Angular/datingApp/DatingApp.API/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
